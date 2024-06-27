@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [Latest CV](https://drive.google.com/file/d/1m8vPvoeS4lXcfwVDyTdD6fXn89H4IOJG/view?usp=sharing)
 
-- ⚡ Fun fact **Recession is about to end.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/risshixd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="risshixd" height="30" width="40" /></a>
