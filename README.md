@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishi Jain</h1>
 <h3 align="center">A passionate Software Engineer from India who egars to get their hands dirty with new Technologies</h3>
 
-- 🔭 I’m currently working on **My Own Compiler**
+- I’m currently creating **My Own Compiler**
 
-- 🌱 I’m currently learning **Full Stack Decelopment and DevOps Tools**
+- I’m currently learning **Full Stack Decelopment and DevOps Tools**
 
-- 💬 Ask me about **Java, MERN Stack Development**
+- Ask me about **Java, MERN Stack Development**
 
-- 📫 How to reach me **rishijain02907@gmail.com**
+- How to reach me **rishijain02907@gmail.com**
 
-- 📄 Know about my experiences [Latest CV](https://drive.google.com/file/d/1m8vPvoeS4lXcfwVDyTdD6fXn89H4IOJG/view?usp=sharing)
+- Know about my experiences [Latest CV](https://drive.google.com/file/d/1m8vPvoeS4lXcfwVDyTdD6fXn89H4IOJG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
